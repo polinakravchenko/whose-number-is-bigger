@@ -1,0 +1,108 @@
+body {
+height: 100%;
+margin: 0;
+background-color: rgba(255, 234, 172, 0.967);
+}
+h1 {
+ display: block;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: bold;
+ font-size: 40px;
+ color: rgb(190, 37, 37);
+ text-shadow: 2px 2px 2px rgba(255, 203, 49, 0.962),
+              1px 1px 1px rgba(255, 203, 49, 0.962);
+}
+.line{
+    display: block;
+    text-align: center;
+}
+div.block{
+    display:inline-block;
+    padding:15px;
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 5px;
+}
+.input {
+    display: block;
+    width: 160px;
+    height: 25px;
+    font-size: 25px;
+    text-align: center;
+    border: rgba(255, 234, 172, 0.967);
+    border-radius: 20px;
+    background-color: rgba(255, 234, 172, 0.967);  
+}
+.one {
+    display: block;
+    width: 160px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(113, 175, 242, 0.949);  
+}
+.firstline{
+    display: block;    
+    text-align: center;
+}
+div.blockone{
+    display:inline-block;
+    padding:15px;
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 10px;
+}
+.secondline{
+    display: block; 
+    text-align: center;
+}
+div.blocktwo{
+    display:inline-block;
+    padding: 20px;
+    background-color: rgb(129, 237, 90);
+    width: 180px;
+    height: 20px;
+    border: 5px dotted yellow;
+    border-radius: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdline{
+    display: block; 
+    text-align: center;
+}
+div.blockthree{
+    display:inline-block;
+    padding:20px;
+    margin-right:200px;
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 70px;
+    height: 70px;
+    background-color: rgb(240, 235, 62);
+    border: 10px double rgb(235, 141, 27);
+    border-radius: 160px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.blockfour{
+    display: block;
+    padding:25px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+div.buttonn{
+    display: block;
+    padding:20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgba(239, 103, 30, 0.907);
+    text-shadow: 1px 1px 1px rgba(250, 216, 113, 0.962),
+                 1px 1px 1px rgba(250, 216, 113, 0.962);
+}
