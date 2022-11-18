@@ -105,4 +105,5 @@ div.buttonn{
     color: rgba(239, 103, 30, 0.907);
     text-shadow: 1px 1px 1px rgba(250, 216, 113, 0.962),
                  1px 1px 1px rgba(250, 216, 113, 0.962);
+    cursor: pointer;
 }
